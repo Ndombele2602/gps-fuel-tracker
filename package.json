@@ -1,0 +1,1 @@
+{\n  "name": "gps-fuel-tracker",\n  "version": "1.0.0",\n  "description": "A GPS fuel tracker application",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js",\n    "test": "echo 'Error: no test specified' && exit 1"\n  },\n  "author": "Ndombele2602",\n  "license": "ISC",\n  "dependencies": {\n    "express": "^4.17.1",\n    "mongoose": "^5.10.9"\n  }\n}
